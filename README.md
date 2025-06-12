@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AZ-104
 - 📫 How to reach me ... okateun@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: boring until stirred.
 
 <!---
 okateun/okateun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
