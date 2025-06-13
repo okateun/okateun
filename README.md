@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @okateun
-- 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning AZ-104
-- 💞️ I’m looking to collaborate on AZ-104
+- 👀 I’m interested in how things work
+- 🌱 I’m currently learning - a life-long learner
+- 💞️ I’m looking to collaborate on anything profitable
 - 📫 How to reach me ... okateun@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: I am your ancestor
 - ⚡ Fun fact: boring until stirred.
 
 <!---
